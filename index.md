@@ -37,6 +37,7 @@ Our pursuit with the IA model is to predict the probability of disruption caused
 This project aspires to change the world employing a  focus on sustainability that benefits all stakeholders.
 
 It's true; data solutions are already on the market. Various players have brought them to light a few months ago. Our system challenges the market offering by introducing a customer-centric approach to the solution. Relying on statistics and installation dynamics reduces model training and computational power needed for development and deployment. As a consequence, everyone benefits from the delivery of an accessible and unparalleled product cost.
+
 In summary, our business model envisions an affordable monthly subscription that reaches revenue once a significant amount of users access the technology.
 
 
