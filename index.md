@@ -51,7 +51,7 @@ As a test run, we built a model to predict the probability of pump events** occu
 ![](https://github.com/dnb0512/DataProject/blob/gh-pages/line3.gif?raw=true)
 
 >  Close Valve State Was Selected As The Event For This Particular Case. It Allowed Us To Determine If A Model Can Detect Duty Point Movement Accurately.
-Please Visit Our Notebook Posted On The Following [Github Repository] (Notebookdepresentacion.ipynb). 
+Please Visit Our Notebook Posted On The Following [Github Repository](https://github.com/dnb0512/DataProject/blob/gh-pages/Notebookdepresentacion.ipynb). 
 
 
 ------------
