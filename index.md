@@ -56,7 +56,7 @@ Please Visit Our Notebook Posted On The Following Github Repository.
 
 ------------
 
-##What's Happening Next?
+## What's Happening Next?
 We're looking for a partner who can help us accomplish our goals fast. 
 
 We have been working on our model math; our first iteration is almost ready for testing. We're looking for a partner willing to share its product data to test it for rapid deployment or/and someone who can help us build our company vision.
